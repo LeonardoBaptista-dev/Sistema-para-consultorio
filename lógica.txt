@@ -1,0 +1,9 @@
+Sistema web para administração de pacientes em consultórios
+
+# iniciar projeto Django
+
+# Autenticação de Usuario
+
+# Plataforma
+
+# 
